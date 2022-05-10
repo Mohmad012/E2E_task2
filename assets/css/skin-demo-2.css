@@ -5,10 +5,10 @@
     background-color: #a6c76c;
 }
 .bg-primary {
-    background-color: #a6c76c !important;
+    background-color: #a6c76c;
 }
 .bg-secondary {
-    background-color: #92b25a !important;
+    background-color: #92b25a;
 }
 a {
     color: #a6c76c;
@@ -21,10 +21,10 @@ a:focus {
     box-shadow: 0 1px 0 0 #a6c76c;
 }
 .text-primary {
-    color: #a6c76c !important;
+    color: #a6c76c;
 }
 .text-secondary {
-    color: #92b25a !important;
+    color: #92b25a;
 }
 .alert-primary {
     background-color: #a6c76c;
@@ -995,7 +995,7 @@ a:focus {
 }
 .paypal-link:hover,
 .paypal-link:focus {
-    color: #a6c76c !important;
+    color: #a6c76c;
 }
 .coming-countdown .countdown-amount {
     color: #a6c76c;
