@@ -1,0 +1,468 @@
+[
+    {
+        "sliderContainerData":[
+            {
+                "img":"./assets/images/demos/demo-2/slider/slide-1.jpg",
+                "title":"Bedroom Furniture",
+                "introTitle":["Find Comfort" , "That Suits You."],
+                "addLastBr":false,
+                "addPrice":false,
+                "ShopNowBtn":"Shop Now"
+            },
+            {
+                "img":"./assets/images/demos/demo-2/slider/slide-2.jpg",
+                "title":"Deals and Promotions",
+                "introTitle":["Ypperlig" , "Coffee Table"],
+                "addLastBr":true,
+                "addPrice":true,
+                "addFromText":false,
+                "price":["$" , 49.99],
+                "ShopNowBtn":"Shop Now"
+            },
+            {
+                "img":"./assets/images/demos/demo-2/slider/slide-3.jpg",
+                "title":"Living Room",
+                "introTitle":["Make Your Living Room" , "Work For You."],
+                "addLastBr":true,
+                "addPrice":true,
+                "addFromText":true,
+                "FromWord":"from",
+                "price":["$" , 9.99],
+                "ShopNowBtn":"Shop Now"
+            }
+        ],
+        "SellingProductsTitlesData":{
+            "title":"Top Selling Products",
+            "navItems":[
+                {
+                    "active":true,
+                    "ID":"top-all-link",
+                    "href":"#top-all-tab",
+                    "ariaControls":"top-all-tab",
+                    "ariaSelected":true,
+                    "text":"All"
+                },
+                {
+                    "active":false,
+                    "ID":"top-fur-link",
+                    "href":"#top-fur-tab",
+                    "ariaControls":"top-fur-tab",
+                    "ariaSelected":false,
+                    "text":"Furniture"
+                },
+                {
+                    "active":false,
+                    "ID":"top-decor-link",
+                    "href":"#top-decor-tab",
+                    "ariaControls":"top-decor-tab",
+                    "ariaSelected":false,
+                    "text":"Decoration"
+                },
+                {
+                    "active":false,
+                    "ID":"top-light-link",
+                    "href":"#top-light-tab",
+                    "ariaControls":"top-light-tab",
+                    "ariaSelected":false,
+                    "text":"Lighting"
+                }
+            ]
+        },
+        "AllProductsSectionData":[
+            {
+                "id":1,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-7-1.jpg" , "./assets/images/demos/demo-2/products/product-7-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Lighting",
+                "title":"Petite Table Lamp",
+                "addOldPrice":false,
+                "price":401.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":401.00
+            },
+            {
+                "id":2,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-8-1.jpg" , "./assets/images/demos/demo-2/products/product-8-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Madra Log Holder",
+                "addOldPrice":false,
+                "price":401.00,
+                "addDots":true,
+                "colorUp":"#333333",
+                "textUp":"Color name",
+                "colorDown":"#927764",
+                "textDown":"Color name",
+                "action":"add to cart",
+                "count":1,
+                "total":401.00
+            },
+            {
+                "id":3,
+                "addSale":true,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-9-1.jpg" , "./assets/images/demos/demo-2/products/product-9-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Furniture",
+                "title":"Garden Armchair",
+                "addOldPrice":true,
+                "newPrice":94.00,
+                "oldPrice":94.00,
+                "price":94.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":94.00
+            },
+            {
+                "id":4,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-10-1.jpg" , "./assets/images/demos/demo-2/products/product-10-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Lighting",
+                "title":"Carronade Large Suspension Lamp",
+                "addOldPrice":false,
+                "price":401.00,
+                "addDots":true,
+                "colorUp":"#e8e8e8",
+                "textUp":"Color name",
+                "colorDown":"#333333",
+                "textDown":"Color name",
+                "action":"add to cart",
+                "count":1,
+                "total":401.00
+            },
+            {
+                "id":5,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-11-1.jpg" , "./assets/images/demos/demo-2/products/product-11-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Original Outdoor Beanbag",
+                "addOldPrice":false,
+                "price":259.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":259.00
+            },
+            {
+                "id":6,
+                "addSale":false,
+                "addNew":true,
+                "img":["./assets/images/demos/demo-2/products/product-12-1.jpg" , "./assets/images/demos/demo-2/products/product-12-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Furniture",
+                "title":"2-Seater",
+                "addOldPrice":false,
+                "price":3107,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":3107
+            },
+            {
+                "id":7,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-13-1.jpg" , "./assets/images/demos/demo-2/products/product-13-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Furniture",
+                "title":"Wingback Chair",
+                "addOldPrice":false,
+                "price":2486,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":2486
+            },
+            {
+                "id":8,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-14-1.jpg" , "./assets/images/demos/demo-2/products/product-14-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Cushion Set 3 Pieces",
+                "addOldPrice":false,
+                "price":199.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":199.00
+            },
+            {
+                "id":9,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-15-1.jpg" , "./assets/images/demos/demo-2/products/product-15-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Cushion Set 3 Pieces",
+                "addOldPrice":false,
+                "price":199.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":199.00
+            },
+            {
+                "id":10,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-16-1.jpg" , "./assets/images/demos/demo-2/products/product-16-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Lighting",
+                "title":"Carronade Table Lamp",
+                "addOldPrice":false,
+                "price":499.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":499.00
+            }
+        ],
+        "FurnitureProductsSectionData":[
+            {
+                "id":3,
+                "addSale":true,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-9-1.jpg" , "./assets/images/demos/demo-2/products/product-9-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Furniture",
+                "title":"Garden Armchair",
+                "addOldPrice":true,
+                "newPrice":94.00,
+                "oldPrice":94.00,
+                "price":94.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":94.00
+            },
+            {
+                "id":6,
+                "addSale":false,
+                "addNew":true,
+                "img":["./assets/images/demos/demo-2/products/product-12-1.jpg" , "./assets/images/demos/demo-2/products/product-12-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Furniture",
+                "title":"2-Seater",
+                "addOldPrice":false,
+                "price":3107,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":3107
+            },
+            {
+                "id":7,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-13-1.jpg" , "./assets/images/demos/demo-2/products/product-13-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Furniture",
+                "title":"Wingback Chair",
+                "addOldPrice":false,
+                "price":2486,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":2486
+            }
+        ],
+        "DecorProductsSectionData":[
+            {
+                "id":2,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-8-1.jpg" , "./assets/images/demos/demo-2/products/product-8-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Madra Log Holder",
+                "addOldPrice":false,
+                "price":401.00,
+                "addDots":true,
+                "addActive":true,
+                "colorUp":"#333333",
+                "textUp":"Color name",
+                "colorDown":"#927764",
+                "textDown":"Color name",
+                "action":"add to cart",
+                "count":1,
+                "total":401.00
+            },
+            {
+                "id":5,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-11-1.jpg" , "./assets/images/demos/demo-2/products/product-11-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Original Outdoor Beanbag",
+                "addOldPrice":false,
+                "price":259.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":259.00
+            },
+            {
+                "id":8,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-14-1.jpg" , "./assets/images/demos/demo-2/products/product-14-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Cushion Set 3 Pieces",
+                "addOldPrice":false,
+                "price":199.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":199.00
+            },
+            {
+                "id":9,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-15-1.jpg" , "./assets/images/demos/demo-2/products/product-15-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Decor",
+                "title":"Cushion Set 3 Pieces",
+                "addOldPrice":false,
+                "price":199.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":199.00
+            }
+        ],
+        "LightingProductsSectionData":[
+            {
+                "id":1,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-7-1.jpg" , "./assets/images/demos/demo-2/products/product-7-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Lighting",
+                "title":"Petite Table Lamp",
+                "addOldPrice":false,
+                "price":401.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":401.00
+            },
+            {
+                "id":4,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-10-1.jpg" , "./assets/images/demos/demo-2/products/product-10-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Lighting",
+                "title":"Carronade Large Suspension Lamp",
+                "addOldPrice":false,
+                "price":401.00,
+                "addDots":true,
+                "addActive":true,
+                "colorUp":"#e8e8e8",
+                "textUp":"Color name",
+                "colorDown":"#333333",
+                "textDown":"Color name",
+                "action":"add to cart",
+                "count":1,
+                "total":401.00
+            },
+            {
+                "id":10,
+                "addSale":false,
+                "addNew":false,
+                "img":["./assets/images/demos/demo-2/products/product-16-1.jpg" , "./assets/images/demos/demo-2/products/product-16-2.jpg"],
+                "addToWishlistText":"add to wishlist",
+                "category":"Lighting",
+                "title":"Carronade Table Lamp",
+                "addOldPrice":false,
+                "price":499.00,
+                "addDots":false,
+                "action":"add to cart",
+                "count":1,
+                "total":499.00
+            }
+        ],
+        "CartData":{
+            "title":["Shopping Cart" , "Shop"],
+            "breadcrumb":[
+                {
+                    "Class":"breadcrumb-item",
+                    "addPath":true,
+                    "path":"/",
+                    "text":"Home"
+                },
+                {
+                    "Class":"breadcrumb-item",
+                    "path":"#",
+                    "text":"Shop"
+                },
+                {
+                    "Class":"breadcrumb-item",
+                    "text":"Shopping Cart"
+                }
+            ],
+            "pageContentTitles":["Product" , "Price" , "Quantity" , "Total"],
+            "msgEmptyCart":"Basket is Empty !!"
+        },
+        "HeaderData":{
+            "mobileMenuTogglerText":"Toggle mobile menu",
+            "cartCount":2,
+            "TotalText":"Total",
+            "ViewCartText":"View Cart",
+            "msgEmptyCart":"Basket is Empty !!"
+        },
+        "FooterData":{
+            "footerCopyright":"Copyright © 2022 Molla Store. All Rights Reserved.",
+            "footerMenu":[
+                {"text":"Terms Of Use"},
+                {"text":"Privacy Policy"}
+            ],
+            "socialIcons":{
+                "socialLabel":"Social Media",
+                "socialIconsList":[
+                    {
+                        "ClassLink":"social-icon social-facebook",
+                        "title":"Facebook",
+                        "ClassIco":"icon-facebook-f"
+                    },
+                    {
+                        "ClassLink":"social-icon social-twitter",
+                        "title":"Twitter",
+                        "ClassIco":"icon-twitter"
+                    },
+                    {
+                        "ClassLink":"social-icon social-instagram",
+                        "title":"Instagram",
+                        "ClassIco":"icon-instagram"
+                    },
+                    {
+                        "ClassLink":"social-icon social-youtube",
+                        "title":"Youtube",
+                        "ClassIco":"icon-youtube"
+                    },
+                    {
+                        "ClassLink":"social-icon social-pinterest",
+                        "title":"Pinterest",
+                        "ClassIco":"icon-pinterest"
+                    }
+                ]
+            }
+        }
+    }
+]
