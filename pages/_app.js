@@ -10,9 +10,9 @@ import '../assets/vendor/line-awesome/line-awesome/line-awesome/css/line-awesome
 import '../assets/css/bootstrap.min.css'
 import '../assets/css/plugins/owl-carousel/owl.carousel.css'
 import '../assets/css/plugins/magnific-popup/magnific-popup.css'
+import '../assets/css/style.css'
 import '../assets/css/skin-demo-2.css'
 import '../assets/css/demo-2.css'
-import '../assets/css/style.css'
 
 dynamic(
   () => {
