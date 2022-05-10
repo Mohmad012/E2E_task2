@@ -6,3 +6,7 @@
 - Redux
 - Next.js
 - Clean Folder Structure
+
+## To Run this App
+- run npm i
+- npm run dev
