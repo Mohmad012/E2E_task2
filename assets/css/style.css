@@ -1,4 +1,5 @@
 ﻿@import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800");
+
 @import 'line-awesome.min.css';
 
 html {
@@ -6632,7 +6633,7 @@ p {
 }
 .ratings:before,
 .ratings-val:before {
-    content: "\f318""\f318""\f318""\f318""\f318";
+    content: "\f318";
 }
 .ratings-val {
     position: absolute;
